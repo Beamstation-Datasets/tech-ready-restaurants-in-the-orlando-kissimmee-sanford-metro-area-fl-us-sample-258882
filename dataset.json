@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Orlando-Kissimmee-Sanford Metro Area, FL, US",
+  "export_job_id": "da847a54-7bb0-4f3a-9495-a6d5911fca7d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 258882,
+  "location_name": "Orlando-Kissimmee-Sanford, FL",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-orlando-kissimmee-sanford-metro-area-fl-us-sample-258882",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/258882/beamstation_258882_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
+  "sample_pct": 8.99,
+  "sample_records": 8,
+  "sample_sha256": "8e5082a841d0499799b38749f9d3c7e351ed99251b9bc0183e9ca2719573af12",
+  "sample_size_bytes": 49052,
+  "total_records": 89,
+  "updated_at": "2026-04-08T06:07:35.381237+00:00"
+}
