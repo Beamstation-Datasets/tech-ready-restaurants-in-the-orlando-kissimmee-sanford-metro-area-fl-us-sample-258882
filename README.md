@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Orlando-Kissimmee-Sanford Metro Area, FL, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `258882` |
 | Location | Orlando-Kissimmee-Sanford, FL |
 | Category | Restaurants |
-| Full dataset size | 45 records |
-| Free sample size | 4 records (8.89%) |
-| Last export | 2026-04-15T09:56:45.566165+00:00 |
+| Full dataset size | 15 records |
+| Free sample size | 1 records (6.67%) |
+| Last export | 2026-04-22T17:18:15.338991+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-orlando-kissimmee-sanford-metro-area-fl-us-sample-258882/releases/download/sample-latest/beamstation_258882_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
