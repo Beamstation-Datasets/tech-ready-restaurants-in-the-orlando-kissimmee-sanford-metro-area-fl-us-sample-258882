@@ -1,12 +1,12 @@
 {
-  "export_job_id": "97654a56-41e6-41b6-8e49-1903c84ef9b7",
+  "export_job_id": "b1f27a15-58f7-4ea8-a8f1-143e75ab7e02",
   "id_short": 258882,
-  "published_at": "2026-04-22T19:27:18Z",
+  "published_at": "2026-04-29T19:23:16Z",
   "repo_name": "tech-ready-restaurants-in-the-orlando-kissimmee-sanford-metro-area-fl-us-sample-258882",
   "sample_asset_name": "beamstation_258882_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/258882/beamstation_258882_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "d2a5939d7b7fcc7374bd8d9dcb9a469e05685fb22e5c9258d1031393cba7f0dd",
-  "sample_size_bytes": 20466,
-  "total_records": 15
+  "sample_records": 18,
+  "sample_sha256": "3d2c98eb95ea08150e3100ad73cb7b97c77ae00928973f446c54a392e2412113",
+  "sample_size_bytes": 92600,
+  "total_records": 182
 }
